@@ -26,8 +26,10 @@ The goal was to reliably collect data from all devices without overwhelming the 
 
 ## How to Run Locally
 
-### Step 1: Start the Mock API Server
+
 Open a terminal and run:
+
+Step 1: Start the Mock API Server
 
 ```bash
 cd mock-api
